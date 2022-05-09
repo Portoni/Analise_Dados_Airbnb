@@ -11,5 +11,5 @@ My first Data Science project, where I made an exploratory analysis on an Airbnb
 [Medium Article]()
 
 **Other useful links:**
-* [LinkedIn](https://www.linkedin.com/in/rafael-n-duarte/)
-* [Portfólio Completo](https://www.linkedin.com/in/rafael-n-duarte/)
+* [LinkedIn](https://www.linkedin.com/in/daniel-toni/)
+* [Portfólio Completo](https://github.com/Portoni/My-Portfolio)
