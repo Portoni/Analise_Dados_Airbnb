@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.segurospromo.com.br/blog/wp-content/uploads/2020/09/melbourne-australia.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="bannergit.png" >
 </p>
 
 ## My Airbnb Data Analysis Project
