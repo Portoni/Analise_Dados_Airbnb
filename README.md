@@ -6,9 +6,9 @@
 
 Meu projeto onde analisei os dados do Airbnb de Roma. Foi utilizado Python e outras bibliotecas, como Pandas e Matplotlib.
 
-[Notebook do Projeto](https://github.com/Portoni/Analise_Dados_Airbnb/blob/main/airbnb_projeto.ipynb)
-[Artigo Linkedin]()
-[Artigo Medium]()
+* [Notebook do Projeto](https://github.com/Portoni/Analise_Dados_Airbnb/blob/main/airbnb_projeto.ipynb)
+* [Artigo Linkedin]()
+* [Artigo Medium]()
 
 **Other useful links:**
 * [LinkedIn](https://www.linkedin.com/in/daniel-toni/)
