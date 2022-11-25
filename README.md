@@ -5,11 +5,15 @@
 </p>
 
 Meu projeto onde analisei os dados do Airbnb de Roma. Foi utilizado Python e outras bibliotecas, como Pandas e Matplotlib.
+Foi feita uma análise exploratória dos dados, onde retiramos informações que são úteis para a tomada de decisão de um turista ao visitar a cidade de Roma.
+Neste projeto houve a limpeza do conjunto de dados, foi detectado outliers e removidos para uma análise mais precisa, e depois algumas considerações em relação ao preço de locação, tipos de quartos e localidade dos imóveis.
 
 * [Notebook do Projeto](https://github.com/Portoni/Analise_Dados_Airbnb/blob/main/airbnb_projeto.ipynb)
 * [Artigo Linkedin]()
 * [Artigo Medium]()
 
-**Other useful links:**
+
+
+**Outros links úteis:**
 * [LinkedIn](https://www.linkedin.com/in/daniel-toni/)
 * [Portfólio Completo](https://github.com/Portoni/portfolio)
