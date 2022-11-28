@@ -10,7 +10,7 @@ Neste projeto houve a limpeza do conjunto de dados, foi detectado outliers e rem
 
 * [Notebook do Projeto](https://github.com/Portoni/Analise_Dados_Airbnb/blob/main/airbnb_projeto.ipynb)
 * [Artigo Linkedin]()
-* [Artigo Medium]()
+* [Artigo Medium](https://danieltoni.medium.com/an%C3%A1lise-dos-dados-do-airbnb-em-roma-com-pandas-e7ea18ed8819)
 
 
 
