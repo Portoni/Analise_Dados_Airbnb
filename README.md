@@ -9,7 +9,7 @@ Foi feita uma análise exploratória dos dados, onde retiramos informações que
 Neste projeto houve a limpeza do conjunto de dados, foi detectado outliers e removidos para uma análise mais precisa, e depois algumas considerações em relação ao preço de locação, tipos de quartos e localidade dos imóveis.
 
 * [Notebook do Projeto](https://github.com/Portoni/Analise_Dados_Airbnb/blob/main/airbnb_projeto.ipynb)
-* [Artigo Linkedin](https://bit.ly/3GVEZCS)
+* [Artigo Linkedin]([https://bit.ly/3GVEZCS](https://www.linkedin.com/pulse/an%25C3%25A1lise-dos-dados-do-airbnb-em-roma-com-pandas-daniel-toni/?published=t&trackingId=n1WALMAxqibmtIGWkMIK8w%3D%3D))
 * [Artigo Medium](https://danieltoni.medium.com/an%C3%A1lise-dos-dados-do-airbnb-em-roma-com-pandas-e7ea18ed8819)
 
 
